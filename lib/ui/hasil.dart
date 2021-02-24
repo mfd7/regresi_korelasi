@@ -27,7 +27,7 @@ class HasilScreenState extends State<Hasil> {
     return new Scaffold(
       appBar: new AppBar(
         backgroundColor: Colors.blueGrey[900],
-        title: new Text('Hasil'),
+        title: new Text('Hasil 152017116'),
       ),
       body: GridView.count(
         crossAxisCount: 2,

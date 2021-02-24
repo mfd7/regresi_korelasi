@@ -20,7 +20,7 @@ class HomeScreenState extends State<Home> {
     return new Scaffold(
         appBar: new AppBar(
           backgroundColor: Colors.blueGrey[900],
-          title: new Text('Regresi & Korelasi'),
+          title: new Text('Regresi & Korelasi 152017116'),
         ),
         body: ListView(
           children: [
